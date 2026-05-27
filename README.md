@@ -4,6 +4,7 @@
 To design and deploy a prototype application for image generation utilizing the Stable Diffusion model, integrated with the Gradio UI framework for interactive user engagement and evaluation.
 
 ## PROBLEM STATEMENT:
+Creating realistic images from textual descriptions often requires complex deep-learning architectures and specialized tools. This project addresses this challenge by implementing an image generation application using the Stable Diffusion model and deploying it through an interactive Gradio framework.
 
 ## DESIGN STEPS:
 
